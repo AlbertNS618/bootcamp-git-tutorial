@@ -1,2 +1,2 @@
 # bootcamp-git-tutorial
-git basics.
+Hotel De Luna
